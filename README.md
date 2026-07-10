@@ -1,2 +1,0 @@
-# Freeman Portfolio
-Portfolio Project
